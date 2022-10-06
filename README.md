@@ -2,4 +2,5 @@
 
 Modelado de aplicacion de Venta de Playeras personalizadas
 
-[![Modelo-Papel.png](https://i.postimg.cc/vZxL5hBg/Modelo-Papel.png)](https://postimg.cc/68wvXdCt)
+[![Modelo-Papelydigital.png](https://i.postimg.cc/gkrBXmys/Modelo-Papelydigital.png)](https://postimg.cc/9r5Bs3nw)
+
